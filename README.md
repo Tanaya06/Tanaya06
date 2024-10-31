@@ -8,7 +8,7 @@
 
 ### About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="25" height="25" />
 - :desktop_computer: I'm currently working as Graduate Trainee Engineer at [Siemens](https://www.siemens.com/global/en.html).
-- :classical_building: Graduated with degree in Electronics and Telecommunication engineering with minor in Data Science.
+- :classical_building: Graduated from [Pune Institute of Computer Technology](https://pict.edu/) with degree in Electronics and Telecommunication engineering with honours degree in Data Science.
 - :robot: Highly enthusiastic about robotics and embedded systems!
 - :brain: Interested in Machine Learning/Deep Learning
 - <img src="https://github.com/user-attachments/assets/d209ba09-b7b6-4925-8fbe-7d01ab7fb625" width="21" height="21" /> [Scaled Agile Practioner](https://www.credly.com/badges/de5055e6-87ca-4eda-af4b-4c709f3398e6/public_url)
