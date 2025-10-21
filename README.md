@@ -12,6 +12,7 @@
 - :robot: Enthusiastic about robotics and embedded systems
 - :brain: Interested in Machine Learning/Deep Learning and other AI technologies.
 - <img src="https://github.com/user-attachments/assets/d209ba09-b7b6-4925-8fbe-7d01ab7fb625" width="21" height="21" /> [Scaled Agile Practioner](https://www.credly.com/badges/de5055e6-87ca-4eda-af4b-4c709f3398e6/public_url)
+- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="21" height="21" /> [AWS Cloud Practioner](https://www.credly.com/badges/22c57161-20d5-42b8-b19f-976ebd3a7aca/public_url)
 
 ### TechStack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="26" height="26">
 Programming Languages:
