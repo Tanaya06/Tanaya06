@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Tanaya <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
->_Curious about electronics and embedded systems with an interest in robotics, I’m driven by curiosity to explore and innovate within the tech landscape, constantly seeking to design and develop impactful, cutting-edge solutions._
+>_Curious about electronics, AI, embedded systems, robotics, and little bit of everything!... I’m driven by curiosity to explore and innovate within the tech landscape, constantly seeking to design and develop impactful, cutting-edge solutions._
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -24,10 +24,12 @@ Tools & Hardware:
 [![My Skills](https://skillicons.dev/icons?i=linux,powershell,gitlab,arduino,pytorch,tensorflow,mysql,mongodb,eclipse,visualstudio)](https://skillicons.dev)
 
 ### Currently exploring... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+- :brain: Investigating ways to use AI algorithms for robotic decision-making, object recognition, and environmental interaction.
+- :bulb: Experimenting with LLMs, computer vision models, and multimodal AI to develop agents that understand both textual and visual data for automation and smart system control.
 - :electric_plug:	Focusing on microcontroller programming, real-time operating systems (RTOS), and firmware development to build efficient and reliable systems.
+- :rocket: Exploring integration of AI-driven automation in DevOps to enhance productivity, requirement validation, and design conformance.
 - :vibration_mode: Learning Bluetooth, Wi-Fi, CAN, and other communication protocols to enable seamless data exchange in embedded and robotic applications.
 - :robot: Exploring robotics fundamentals, including sensor integration, motor control, and machine vision, to create responsive and intelligent robotic systems.
-- :brain: Investigating ways to use AI algorithms for robotic decision-making, object recognition, and environmental interaction.
 - :jp: Actively learning Japanese to facilitate a career in Japan, with a focus on technical language for professional communication in electronics and robotics fields.
 
 ### Get in touch! :email:
